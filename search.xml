@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>测试文章</title>
+      <link href="/2023/12/24/ceshi/"/>
+      <url>/2023/12/24/ceshi/</url>
+      
+        <content type="html"><![CDATA[<p>哈喽啊哈哈<br>哈哈哈</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 咖啡日志 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/12/17/hello-world/"/>
       <url>/2023/12/17/hello-world/</url>
@@ -13,7 +32,7 @@
       
       <categories>
           
-          <category> 咖啡 </category>
+          <category> 分享与推荐 </category>
           
       </categories>
       
