@@ -4,18 +4,37 @@
   
     
     <entry>
-      <title>测试文章</title>
-      <link href="/2023/12/24/ceshi/"/>
-      <url>/2023/12/24/ceshi/</url>
+      <title>markdown心法</title>
+      <link href="/2023/12/25/%E5%8F%82%E8%80%83%E4%B9%A6/"/>
+      <url>/2023/12/25/%E5%8F%82%E8%80%83%E4%B9%A6/</url>
       
-        <content type="html"><![CDATA[<p>哈喽啊哈哈<br>哈哈哈</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="分栏-tab"><a href="#分栏-tab" class="headerlink" title="分栏 tab"></a>分栏 tab</h2><div class="tabs" id="test2"><ul class="nav-tabs"><button type="button" class="tab " data-href="test2-1">语法</button><button type="button" class="tab " data-href="test2-2">配置</button><button type="button" class="tab  active" data-href="test2-3">预览</button><button type="button" class="tab " data-href="test2-4">示例</button></ul><div class="tab-contents"><div class="tab-item-content" id="test2-1"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tabs test2,3 %&#125;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab 语法 --&gt;</span><br><span class="line"><span class="strong">**tab名字为第一个Tab**</span></span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab 配置 --&gt;</span><br><span class="line"><span class="strong">**只有图标 没有Tab名字**</span></span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab 预览 --&gt;</span><br><span class="line"><span class="strong">**名字+icon**</span></span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- tab 示例 --&gt;</span><br><span class="line"><span class="strong">**名字+icon**</span></span><br><span class="line">&lt;!-- endtab --&gt;</span><br><span class="line">&#123;% endtabs %&#125;</span><br></pre></td></tr></table></figure></div><div class="tab-item-content" id="test2-2"><ol><li>Uniqe name</li></ol><ul><li>选项卡块标签的唯一名称，不带逗号。</li><li>将在#id 中用作每个标签及其索引号的前缀。</li><li>如果名称中包含空格，则对于生成#id，所有空格将由破折号代替。</li><li>仅当前帖子&#x2F;页面的 URL 必须是唯一的！</li></ul><!--[index]--></div><div class="tab-item-content active" id="test2-3"><p><strong>名字+icon</strong></p></div><div class="tab-item-content" id="test2-4"><p><strong>名字+icon</strong></p></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></button></div></div>]]></content>
       
       
       <categories>
           
-          <category> 咖啡日志 </category>
+          <category> 分享 </category>
           
       </categories>
+      
+      
+        <tags>
+            
+            <tag> 自用参考 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/2023/12/24/ceshi/"/>
+      <url>/2023/12/24/ceshi/</url>
+      
+        <content type="html"><![CDATA[<hr><p>title: 测试文章<br>categories: </p><ul><li>咖啡<br>cover: <a href="https://leoimages.wiwi.ac/uploads/2023/12/27/658be9be1d088.jpg">https://leoimages.wiwi.ac/uploads/2023/12/27/658be9be1d088.jpg</a><br>哈喽啊哈哈<br>哈哈哈</li></ul>]]></content>
+      
       
       
     </entry>
@@ -32,7 +51,7 @@
       
       <categories>
           
-          <category> 分享与推荐 </category>
+          <category> 分享 </category>
           
       </categories>
       
