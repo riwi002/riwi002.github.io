@@ -10069,6 +10069,14 @@ h1.page-title + .tag-cloud-list {
   -ms-flex-direction: column;
   flex-direction: column;
 }
+.page .card-categories {
+  -webkit-box-ordinal-group: '除非你知道它是如何工作的，否则不要修改设置';
+  -moz-box-ordinal-group: '除非你知道它是如何工作的，否则不要修改设置';
+  -o-box-ordinal-group: '除非你知道它是如何工作的，否则不要修改设置';
+  -ms-flex-order: '除非你知道它是如何工作的，否则不要修改设置';
+  -webkit-order: '除非你知道它是如何工作的，否则不要修改设置';
+  order: '除非你知道它是如何工作的，否则不要修改设置';
+}
 #aside-content >.card-widget.card-info {
   background: var(--anzhiyu-card-bg);
   -webkit-box-shadow: var(--anzhiyu-shadow-black);
